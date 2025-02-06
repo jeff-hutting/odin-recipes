@@ -1,7 +1,7 @@
 # odin-recipes
 The Odin Project | HTML Foundations Project
 
-This project will demonstrate my understangin of basic HTML principles
+This project will demonstrate my understanding of basic HTML principles
 as outlined in The Odin Project HTML Foundations curriculum. Concepts
 include:
     - Elements and Tags
