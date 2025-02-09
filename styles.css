@@ -1,0 +1,29 @@
+.button,
+.heading-1,
+.heading-2,
+.link,
+.list,
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading-1 {
+  font-size: 32px;
+  font-weight: 600;
+  background-color: antiquewhite;
+}
+
+.heading-2 {
+  font-size: 24px;
+  font-weight: 575;
+}
+
+.link {
+  font-size: 18px;
+}
+
+.button {
+  background-color: beige;
+  font-weight: 600;
+  font-size: medium;
+}
